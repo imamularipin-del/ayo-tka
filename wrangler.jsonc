@@ -8,6 +8,6 @@
     "run_worker_first": ["/api"]
   },
   "vars": {
-    "APPS_SCRIPT_URL": "GANTI_DENGAN_URL_WEB_APP_APPS_SCRIPT_YANG_BERAKHIR_/exec"
+    "APPS_SCRIPT_URL": "https://script.google.com/macros/s/AKfycbxIHc046SafdAGjRrbnVuJYL3e6PMyef9ky-DVfZUnOZzYtvergykBV2OlG982cTIVu-w/exec"
   }
 }
